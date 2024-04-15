@@ -3,3 +3,10 @@ body{
 
 }
 .jk{width:400px; height: 300px;}
+.textarea {
+    vertical-align: top;
+  
+    height: 5em;
+  
+resize: vertical;
+  }
