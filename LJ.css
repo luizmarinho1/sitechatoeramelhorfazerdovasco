@@ -10,15 +10,14 @@ body{
   
 resize: vertical;
   }
-.corinthians {width:410px; }
+.corinthians {width: 200px;
+margin-left: 50px; }
+.vasco {width: 198px;}
 
-
-.face{ 
+.iconi{ 
     width: 100px;
 }
-.insta{
-    width: 100px;
-}
-.whats{
-    width: 100px;
+.luiz{ margin-left: 250px;}
+.JAO{
+    padding-top: 200px;
 }
